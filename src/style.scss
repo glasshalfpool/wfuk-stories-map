@@ -1,0 +1,271 @@
+/**
+ * The following styles get applied both on the front of your site
+ * and in the editor.
+ *
+ * Replace them with your own styles or remove the file completely.
+ */
+
+ :root {
+	--beige: #f0ede5;
+	--white: #ffffff;
+	--bright-green: #72bb51;
+	--indigo: #6572d6 ;
+	--mauve: #b33359 ;
+	--natural: #a89d4b;
+	--aqua: #0d6986;
+	--pink: #e92b67;
+	--orange: #fd9831;
+	--purple: #3e156c;
+	--grey: #6d6466;
+	--neon: #55d4ae;
+	--pin-size: clamp(1.8rem, 0.692rem + 2.954vw, 3rem);
+	--x-size: clamp(1.5rem, 0.8rem + 1.867vw, 2.2rem);
+  }
+
+.dialog-container dialog {
+	display: none;
+}
+
+.dialog-container dialog[open] {
+	display: block;
+	animation: appear 1s;
+}
+
+@keyframes appear {
+	from {
+		opacity: 0;
+	}
+
+	to {
+		opacity: 1;
+	}
+}
+
+.fa {
+	font-size: var(--pin-size);
+}
+
+.wp-block-create-block-wfuk-stories-map {
+	background-color: var(--beige);
+}
+
+.wfuk-stories-map-container {
+	width: 100%;
+	position: relative;
+}
+
+.map-container-section {
+	position: relative;
+	max-width: 700px;
+	margin: 0 auto;
+}
+
+.wfuk-stories-map-container ul {
+	list-style-type: none;
+}
+
+.wfuk-stories-map-container .location-text ul li {
+	padding-bottom: 1rem;
+	padding-right: 1rem;
+}
+
+.map-and-dots .story-pins {
+	position: absolute;
+	top: 0;
+	left: 0;
+	bottom: 0;
+	right: 0;
+}
+
+.open-modal {
+	position: absolute;
+	font-size: var(--pin-size);
+	border: 0;
+	display: inline-block;
+	padding: 0;
+	margin: 0;
+	background: none;
+	cursor: pointer;
+}
+
+img.stories-map-white {
+	width: 100%;
+	height: 100%;
+}
+
+.story-location a {
+	text-decoration: none;
+}
+
+.story-location {
+	text-transform: uppercase;
+	font-weight: bold;
+	font-size: 16px;
+	line-height: 16px;
+	letter-spacing: 1px;
+	}
+
+.fa-map-marker.location-one {color: var(--bright-green);}
+.fa-map-marker.location-two {color: var(--indigo);}
+.fa-map-marker.location-three {color: var(--mauve);}
+.fa-map-marker.location-four {color: var(--natural);}
+.fa-map-marker.location-five {color: var(--aqua);}
+.fa-map-marker.location-six {color: var(--orange);}
+.fa-map-marker.location-seven {color: var(--purple);}
+.fa-map-marker.location-eight {color: var(--pink);}
+.fa-map-marker.location-nine {color: var(--neon);}
+.fa-map-marker.location-ten {color: var(--slate);}
+
+.fa-map-marker.location-one{
+	left: 42%;
+	top: 22%;
+}
+
+.fa-map-marker.location-two {
+	left: 17.5%;
+	top: 41%;
+}
+
+.fa-map-marker.location-three {
+	left: 54%;
+	top: 38%;
+}
+
+.fa-map-marker.location-four {
+	left: 51%;
+	top: 45%;
+}
+
+.fa-map-marker.location-five {
+	left: 50%;
+	top: 58%;
+}
+
+.fa-map-marker.location-six {
+	left: 42%;
+	top: 68%;
+}
+
+.fa-map-marker.location-seven {
+	left: 45%;
+	top: 74%;
+}
+
+.fa-map-marker.location-eight {
+	left: 52%;
+	top: 63%;
+}
+
+.fa-map-marker.location-nine {
+	left: 32%;
+	top: 82%;
+}
+
+.fa-map-marker.location-ten {
+	left: 70%;
+	top: 70%;
+}
+
+.dialog-container dialog {
+	position: absolute;
+	left: 0;
+	top: 0;
+	right: 0;
+	bottom: 0;
+	width: 100%;
+	height: 100%;
+	border: 0;
+	background: rgba(0,0,0,0.75);
+}
+
+.dialog-container dialog img {
+	aspect-ratio: 16/11;
+	object-fit: cover;
+	//max-width: 450px;
+	width: 100%;
+}
+
+.dialog-container .modal-content {
+	display: flex;
+	flex-direction: column;
+	gap: clamp(1rem, -1rem + 5.333vw, 3rem);
+	max-width: 500px;
+	margin: 0 auto;
+	justify-content: center;
+	align-items: center;
+	height: 100%;
+}
+
+.dialog-container .modal-content h4 {
+	color: var(--white);
+	font-weight: bold;
+	text-transform: uppercase;
+	text-align: center;
+	margin: 0;
+	font-size: var(--wp--preset--font-size--small);
+}
+
+.dialog-container .modal-content .dialog-ctas {
+	display: flex;
+	gap: 1rem;
+}
+
+.dialog-container .modal-content .dialog-ctas .btn {
+	display: inline-block;
+	padding: 0.6rem 1.8rem;
+	text-decoration: none;	
+	border: 1px solid;
+}
+
+.dialog-container .modal-content .dialog-ctas .btn.btn-story {
+	background-color: var(--wp--preset--color--primary);
+	border-color: var(--wp--preset--color--primary);
+	color: var(--white);
+} 
+
+.dialog-container .modal-content .dialog-ctas .btn.btn-events {
+	border-color: var(--wp--preset--color--secondary);
+	color: var(--wp--preset--color--secondary);
+} 
+
+.dialog-container .modal-content .dialog-ctas .btn.btn-story:hover {
+	background-color: var(--wp--preset--color--secondary);
+	border-color: var(--wp--preset--color--secondary);
+	color: var(--slate);
+} 
+
+.dialog-container .modal-content .dialog-ctas .btn.btn-events:hover {
+	border-color: var(--wp--preset--color--primary);
+	color: var(--wp--preset--color--primary);
+} 
+
+.dialog-container .modal-content button.close-modal.fa.fa-close {
+	background: none;
+	border: 0;
+	color: var(--white);
+	font-size: var(--x-size);
+	cursor: pointer;
+}
+
+
+@media (prefers-reduced-motion: no-preference) {
+
+	.story-location {
+		transition: transform 1000ms;
+	}
+	
+	.story-location:hover {
+		transform: translateX(-1rem);
+		transition: transform 250ms;
+	}
+
+	.open-modal, .close-modal {
+		transition: scale 250ms;
+	}
+
+	.open-modal:hover, .close-modal:hover {
+		scale: 150%;
+		transition: scale 250ms;
+	}
+
+} 

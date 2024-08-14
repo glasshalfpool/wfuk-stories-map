@@ -1,0 +1,1 @@
+(()=>{console.log("Hello World! (from create-block-wfuk-stories-map block)");const e=document.querySelectorAll(".open-modal"),o=document.querySelectorAll(".modal-example");e.forEach(((e,l)=>{const c=o[l],r=c.querySelector(".close-modal");e.addEventListener("click",(()=>{o.forEach((e=>{e.close()})),c.show()})),r.addEventListener("click",(()=>{c.close()}))}))})();
