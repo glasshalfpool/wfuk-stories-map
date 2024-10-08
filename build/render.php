@@ -28,8 +28,8 @@
 					<img src="https://wefeedtheuk.org/wp-content/uploads/2024/01/Sophie-Gerrard_Huntly_gallery.webp" />
 					<h4>Cultivating Equality: Women Working with Scottish Land</h4>
 					<div class="dialog-ctas">
-						<a class="btn btn-story"href="https://wefeedtheuk.org/story/cultivating-equality-women-working-with-land/">Story</a>
-						<a class="btn btn-events" href="https://wefeedtheuk.org/story/cultivating-equality-women-working-with-land/#related-events">Events</a>
+						<a class="btn btn-story" href="https://wefeedtheuk.org/story/cultivating-equality-women-working-with-land/">Story</a>	
+						<a class="btn btn-events" href="/events/">Events</a>					
 					</div>
 					<button class="close-modal fa fa-close"></button>
 				</div>
@@ -40,8 +40,8 @@
 					<img src="https://wefeedtheuk.org/wp-content/uploads/2024/01/Yvette-Monahan_looking-out-across-the-fields_gallery.webp" />
 					<h4>Fibre: Nature-Friendly Flax Farming in Northern Ireland</h4>
 					<div class="dialog-ctas">
-						<a class="btn btn-story"href="https://wefeedtheuk.org/story/fibre-nature-friendly-flax-farming/">Story</a>
-						<a class="btn btn-events" href="https://wefeedtheuk.org/story/fibre-nature-friendly-flax-farming/#related-events">Events</a>
+						<a class="btn btn-story" href="https://wefeedtheuk.org/story/fibre-nature-friendly-flax-farming/">Story</a>
+						<a class="btn btn-events" href="/events/">Events</a>
 					</div>			
 					<button class="close-modal fa fa-close"></button>
 				</div>
@@ -52,8 +52,8 @@
 					<img src="https://wefeedtheuk.org/wp-content/uploads/2024/01/Johannah-Churchill_trees-field_gallery.webp" />
 					<h4>Down to Earth: Restoring soil in Northumberland</h4>
 					<div class="dialog-ctas">
-						<a class="btn btn-story"href="https://wefeedtheuk.org/story/down-to-earth-restoring-soil/">Story</a>
-						<a class="btn btn-events" href="https://wefeedtheuk.org/story/down-to-earth-restoring-soil/#related-events">Events</a>
+						<a class="btn btn-story"href="https://wefeedtheuk.org/story/down-to-earth-restoring-soil/">Story</a>	
+						<a class="btn btn-events" href="/events/">Events</a>						
 					</div>
 					<button class="close-modal fa fa-close"></button>
 				</div>	
@@ -64,8 +64,8 @@
 					<img src="https://wefeedtheuk.org/wp-content/uploads/2024/01/webres_Johannes-Pretorius-L1026055-l.jpg" />
 					<h4>Agri-Culture: A Lineage of Hedgerow Ligging in Cumbria</h4>
 					<div class="dialog-ctas">
-						<a class="btn btn-story"href="https://wefeedtheuk.org/story/agri-culture-a-lineage-of-hedgrow-ligging/">Story</a>
-						<a class="btn btn-events" href="https://wefeedtheuk.org/story/agri-culture-a-lineage-of-hedgrow-ligging/#related-events">Events</a>
+						<a class="btn btn-story"href="https://wefeedtheuk.org/story/agri-culture-a-lineage-of-hedgrow-ligging/">Story</a>	
+						<a class="btn btn-events" href="/events/">Events</a>						
 					</div>
 					<button class="close-modal fa fa-close"></button>
 				</div>
@@ -76,8 +76,8 @@
 					<img src="https://wefeedtheuk.org/wp-content/uploads/2024/01/webres_Aaron-Schuman_Fordhall-Farm-4.jpg" />
 					<h4>From Crisis to Kinship: Healing People & Places in Shropshire</h4>
 					<div class="dialog-ctas">
-						<a class="btn btn-story"href="/stories/">Story</a>
-						<a class="btn btn-events" href="/events/">Events</a>
+						<a class="btn btn-story"href="https://wefeedtheuk.org/story/from-crisis-to-kinship-healing-people-and-place-2/">Story</a>
+						<a class="btn btn-events" href="/events/">Events</a>	
 					</div>
 					<button class="close-modal fa fa-close"></button>					
 				</div>
@@ -88,8 +88,8 @@
 					<img src="https://wefeedtheuk.org/wp-content/uploads/2024/01/Andy-Pilsbury_two-women-in-orchard_gallery.webp" />
 					<h4>Custodians of the Land: Intergenerational Nature Restoration in Wales</h4>
 					<div class="dialog-ctas">
-						<a class="btn btn-story"href="https://wefeedtheuk.org/story/custodians-of-the-land-intergenerational-nature-restoration/">Story</a>
-						<a class="btn btn-events" href="https://wefeedtheuk.org/story/custodians-of-the-land-intergenerational-nature-restoration/#related-events">Events</a>
+						<a class="btn btn-story"href="https://wefeedtheuk.org/story/custodians-of-the-land-intergenerational-nature-restoration/">Story</a>	
+						<a class="btn btn-events" href="/events/">Events</a>						
 					</div>
 					<button class="close-modal fa fa-close"></button>
 				</div>
@@ -100,8 +100,8 @@
 					<img src="https://wefeedtheuk.org/wp-content/uploads/2024/01/Lua-Ribeira_baking_gallery.webp" />
 					<h4>Grain Rebels: A Food Revolution Starts with Seed in the South West</h4>
 					<div class="dialog-ctas">
-						<a class="btn btn-story"href="https://wefeedtheuk.org/story/grain-rebels-a-food-revolution-starts-with-seed/">Story</a>
-						<a class="btn btn-events" href="https://wefeedtheuk.org/story/grain-rebels-a-food-revolution-starts-with-seed/#related-events">Events</a>
+						<a class="btn btn-story"href="https://wefeedtheuk.org/story/grain-rebels-a-food-revolution-starts-with-seed/">Story</a>						
+						<a class="btn btn-events" href="/events/">Events</a>	
 					</div>
 					<button class="close-modal fa fa-close"></button>
 				</div>
@@ -112,8 +112,8 @@
 					<img src="https://wefeedtheuk.org/wp-content/uploads/2024/01/Ayesha-Jones_hands-holding-soil-e1707148589369.webp" />
 					<h4>No Diggity: Cooling our Climate in The Black Country</h4>
 					<div class="dialog-ctas">
-						<a class="btn btn-story"href="/stories/">Story</a>
-						<a class="btn btn-events" href="/events/">Events</a>
+						<a class="btn btn-story"href="https://wefeedtheuk.org/story/no-diggity-cooling-our-climate//">Story</a>
+						<a class="btn btn-events" href="/events/">Events</a>	
 					</div>
 					<button class="close-modal fa fa-close"></button>
 				</div>
@@ -124,8 +124,8 @@
 					<img src="https://wefeedtheuk.org/wp-content/uploads/2024/01/webres_Jon-Tonks_1469_11.jpg" />
 					<h4>In Deep Water: Sustainable Fishing along the South Coast</h4>
 					<div class="dialog-ctas">
-						<a class="btn btn-story"href="https://wefeedtheuk.org/story/in-deep-water-sustainable-fishing/">Story</a>
-						<a class="btn btn-events" href="https://wefeedtheuk.org/story/in-deep-water-sustainable-fishing/#related-events">Events</a>
+						<a class="btn btn-story"href="https://wefeedtheuk.org/story/in-deep-water-sustainable-fishing/">Story</a>						
+						<a class="btn btn-events" href="/events/">Events</a>	
 					</div>
 					<button class="close-modal fa fa-close"></button>
 				</div>
@@ -136,8 +136,8 @@
 					<img src="https://wefeedtheuk.org/wp-content/uploads/2024/01/Arpita-Shah_Falcon-Fields-Allotment_gallery.webp" />
 					<h4>Food Justice: Served Fresh from Urban Growers in London</h4>
 					<div class="dialog-ctas">
-						<a class="btn btn-story"href="https://wefeedtheuk.org/story/food-justice-served-fresh-from-community-farms/">Story</a>
-						<a class="btn btn-events" href="https://wefeedtheuk.org/story/food-justice-served-fresh-from-community-farms/#related-events">Events</a>
+						<a class="btn btn-story"href="https://wefeedtheuk.org/story/food-justice-served-fresh-from-community-farms/">Story</a>						
+						<a class="btn btn-events" href="/events/">Events</a>	
 					</div>
 					<button class="close-modal fa fa-close"></button>
 				</div>
